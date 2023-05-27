@@ -10,11 +10,18 @@ const Img = styled.img`
   position: relative;
   cursor: pointer;
   transition: all 0.5s linear;
+  mask-image: linear-gradient(to bottom, transparent, transparent 1%, black 99%, black);
+  
 `;
 
+
+
 const LastImg = styled.img`
+  position: relative;
   transition: all 1s linear;
   border-radius: 7px;
+  mask-image: linear-gradient(to bottom, transparent, transparent 10%, black 90%, black);
+  }
 `;
 
 const Making = styled.span`
@@ -58,7 +65,7 @@ const Button = styled.button`
   i { color: rgba(0, 0, 0, 0.5); }
 `;
 const Wrapper = styled.div`
-  margin: 22px 0px;
+  margin: 2px 0px;
   display: flex;
   overflow-x: hidden;
   align-items: center;
@@ -290,7 +297,7 @@ function SliderImg() {
                 : windowWidth > 1300
                   ? `5%`
                   : `0%`,
-          visibility: windowWidth < 1335 ? "hidden" : "visible",
+                  visibility: windowWidth < 1335 ? "hidden" : "visible",
         }}
         onClick={decreaseClick}
       >
@@ -310,7 +317,8 @@ function SliderImg() {
         <Including>
           <LastImg
             style={{
-              opacity: 0.5,
+              maskImage: 'linear-gradient(to bottom, transparent, transparent 10%, black 90%, black)',
+              opacity: 1,
               width: windowWidth > 1200 ? null : `80vw`,
               height:
                 windowWidth > 1200
@@ -325,7 +333,8 @@ function SliderImg() {
         <Including>
           <LastImg
             style={{
-              opacity: 0.5,
+              maskImage: 'linear-gradient(to bottom, transparent, transparent 10%, black 90%, black)',
+              opacity: 1,
               width: windowWidth > 1200 ? null : `80vw`,
               height:
                 windowWidth > 1200
@@ -379,7 +388,8 @@ function SliderImg() {
         <Including>
           <LastImg
             style={{
-              opacity: 0.5,
+              maskImage: 'linear-gradient(to bottom, transparent, transparent 10%, black 90%, black)',
+              opacity: 1,
               width: windowWidth > 1200 ? null : `80vw`,
               height:
                 windowWidth > 1200
@@ -394,7 +404,8 @@ function SliderImg() {
         <Including>
           <LastImg
             style={{
-              opacity: 0.5,
+              maskImage: 'linear-gradient(to bottom, transparent, transparent 10%, black 90%, black)',
+              opacity: 1,
               width: windowWidth > 1200 ? null : `80vw`,
               height:
                 windowWidth > 1200

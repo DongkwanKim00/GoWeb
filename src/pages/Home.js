@@ -1,14 +1,15 @@
 import SliderImg from "../components/SliderImg";
 import MainContents from "./MainContents";
 import Footer from "../components/Footer"
-import HomePageNaJacBar from "./HomePageNaJacBar"
+import HomePageDrone from "./HomePageDrone"
 const Home = () => {
 
 
     return (
         <div>
 
-            <HomePageNaJacBar />
+                
+            <HomePageDrone />
             
         </div>
     );

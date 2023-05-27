@@ -61,6 +61,7 @@ code {
 }
 
 .news {
+  background-image: url('./news_background.jpg');
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;
@@ -99,7 +100,7 @@ code {
 .home-search-area{ /* 홈 때문에 추가*/
   width: 30%;
   float: left;
-  height: 1250px;
+  height: 2550px;
   box-sizing: border-box;
   background: rgb(0, 2, 6); /* 투명도를 조절할 수 있는 rgba() 함수 사용 */
   font-family: var(--font-googleSingleDay);
@@ -111,7 +112,7 @@ code {
 .home-contents-area{ /* 홈 때문에 추가*/
   width: 70%;
   float: right;
-  height: 1250px;
+  height: 2550px;
   box-sizing: border-box;
   background-color: rgba(245, 245, 220, 0.2);
   font-family: var(--font-googleSingleDay);
@@ -125,23 +126,25 @@ code {
 }
 
 .like-notlike {
-  margin: 0 400px;
-  width:70px;
-  height:70px;
+  margin: 0 600px;
+  width:150px;
+  height:150px;
   margin-top:50px;
   
 }
 .numOfLikes{
-  margin: 0 430px;
-  margin-right: -285px;
+  margin: 0 650px;
   color:blue;
   font-weight:bold;
+  font-size:100px;
+  
 }
 .numOfNotLikes{
-  margin: 0 430px;
-  margin-right: -285px;
+  margin-left:-225px;
   color : red;
   font-weight:bold;
+  font-size:100px;
+  
 }
 .comment-box-container {
   display: flex;

@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Toy drone",
+    "description": "It is a drone that is widely used for introducing drones. It's one of the cheaper ones, and it's light in weight and easy to operate.",
+    "price": "$50~",
+    "number" : 2,
+    
+    "image2": "https://shopping-phinf.pstatic.net/main_3517015/35170156339.20221011143449.jpg?type=f640",
+    "src2" : "https://search.shopping.naver.com/catalog/35170156339?query=%EC%9E%A5%EB%82%9C%EA%B0%90%20%EB%93%9C%EB%A1%A0&NaPm=ct%3Dlfxfi3xc%7Cci%3D054d6c059e31735f51fe44158dec2037e7232abf%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3Df5f007f44b4fd3971d8939750b3ce65c7c6de48b", 
+    "disc_name2" : "X26 mini drone",
+    "disc_size2" : "1,310 mm x 1,310 mm x 450 mm",
+    "score2" : "75",
+
+    "image1": "https://shopping-phinf.pstatic.net/main_3876265/38762657510.20230319144359.jpg?type=f640",
+    "src1" : "https://search.shopping.naver.com/catalog/38762657510?query=%EC%9E%A5%EB%82%9C%EA%B0%90%20%EB%93%9C%EB%A1%A0&NaPm=ct%3Dlg24mh94%7Cci%3D88e7491d56b5b5ddfbd8022726084977414bfbe2%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3D27ed6f9636d5aebc0a3bd84d4c9e1af96f53bcbb", 
+    "disc_name1" : "입문용_플라잉드론",
+    "disc_size1" : "1,200 mm x 1,200 mm 500mm",
+    "score1" : "83"
+  },
+  {
+    "name": "Delivery drone",
+    "description": "Revolutionizing logistics by utilizing unmanned aerial vehicles for fast, cost-effective, and environmentally friendly delivery services",
+    "price": "$50~",
+    "number" : 2,
+    
+    "image2": "https://static.wixstatic.com/media/bdfcdd_509f88443cc145efb2f5985e4bbffaa9~mv2.jpg/v1/fill/w_588,h_410,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/bdfcdd_509f88443cc145efb2f5985e4bbffaa9~mv2.jpg",
+    "src2" : "https://www.droneportal.or.kr/subList/20000000003", 
+    "disc_name2" : "AF100 : AED Delivery",
+    "disc_size2" : "1,560 mm x 800 mm x 430 mm",
+    "score2" : "75",
+
+    "image1": "https://www.droneportal.or.kr/module/upload/file/selectOrignlImageView.do?atchFileId=22000015384&fileSn=0",
+    "src1" : "https://www.droneportal.or.kr/subList/20000000003" ,
+    "disc_name1" : "VL-2300R",
+    "disc_size1" : "1,600 mm x 1,600 mm x 1,000 mm",
+    "score1" : "83"
+  },
+  {
+    "name": "Agriculture drone",
+    "description": "Advancing farming practices through the use of unmanned aerial vehicles, enabling precision agriculture, crop monitoring, and improved efficiency in crop management and yield optimization",
+    "price": "$800~",
+    "number" : 2,
+
+    "image2": "https://www.droneportal.or.kr/module/upload/file/selectOrignlImageView.do?atchFileId=22000015404&fileSn=0",
+    "src2" : "https://search.shopping.naver.com/catalog/26240198522?query=%EB%A0%88%EC%9D%B4%EC%8B%B1%20%EB%93%9C%EB%A1%A0&NaPm=ct%3Dlfxeu7l4%7Cci%3Dbe14cf958d687b4d86a62b704f3afb5ac354cb8e%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3D6eca7bfa9def413cdc4849a3cb96317fc9f7906b",
+    "disc_name2" : "E616P",
+    "disc_size2" : "1,600 mm, 1,400 mm 1000 mm",
+    "score2" : "88",
+
+    "image1": "https://www.droneportal.or.kr/module/upload/file/selectOrignlImageView.do?atchFileId=22000011113&fileSn=0",
+    "src1" : "https://search.shopping.naver.com/catalog/34961614567?query=%EB%A0%88%EC%9D%B4%EC%8B%B1%20%EB%93%9C%EB%A1%A0&NaPm=ct%3Dlg24r7s0%7Cci%3D748238831fdd30d75d616e3a2a3a15c0c372415c%7Ctr%3Dslsl%7Csn%3D95694%7Chk%3D6ba7e0eda03402963f8c127e6f5ad17a8be4ac4c",
+    "disc_name1" : "ANTWING",
+    "disc_size1" : "697 mm x 687 mm x 345 mm",
+    "score1" : "84"
+  },
+  {
+    "name": "Education drone",
+    "description": "Inspiring learning and innovation by utilizing unmanned aerial vehicles as educational tools, promoting STEM education, fostering creativity, and providing hands-on experience in drone technology and applications",
+    "price": "$400~",
+    "number" : 2,
+
+    "image2": "https://www.droneportal.or.kr/module/upload/file/selectOrignlImageView.do?atchFileId=21000010670&fileSn=0",
+    "src2" : "https://www.coupang.com/vp/products/6154492218?itemId=11902700888&vendorItemId=79175637433&src=1032001&spec=10305201&addtag=400&ctag=6154492218&lptag=P6154492218&itime=20230401160139&pageType=PRODUCT&pageValue=6154492218&wPcid=16784638771129585350514&wRef=cr.shopping.naver.com&wTime=20230401160139&redirect=landing&mcid=d23c5f6b948445a1a3729ce2ae93dff2&isAddedCart=" ,
+    "disc_name2" : "Paperus drone",
+    "disc_size2" : "145 mm x 120 mm x 42 mm",
+    "score2" : "88",
+
+    "image1": "http://coco.coreadesign.co.kr/data/editor/2111/0d75a2d20e21f16405093f1fab7b14f5_1637896709_5904.png",
+    "src1" : "https://www.tmon.co.kr/deal/18109029154?NaPm=ct%253Dlg253thc%257Cci%253Dfae0509a98a757241b9ef7e1185af00c4e1d0795%257Ctr%253Dslsl%257Csn%253D221844%257Chk%253D7da58ac977391dde84ccd39e75921ead762efd51&tmonProcess=entryPath&utm_source=naver&utm_medium=affiliate&utm_term=72093_1008&utm_content=&utm_campaign=META_%EB%84%A4%EC%9D%B4%EB%B2%84%EC%A7%80%EC%8B%9D%EC%87%BC%ED%95%91" ,
+    "disc_name1" : "Coding Drone / BR C-105",
+    "disc_size1" : "139 mm x 138 mm x 35 mm",
+    "score1" : "89"
+  }
+]

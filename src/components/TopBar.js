@@ -29,10 +29,10 @@ const Topbar = () => {
   variant="dark"
   expand="lg"
   className="d-flex justify-content-center w-100"
-  style={{ position: "fixed", top: 0, zIndex: 1, background: "#2A2C34" }}
+  style={{ position: "fixed", top: 0, zIndex: 1, background: "#000000" }}
 >
       <Navbar.Brand href="/" className="text-center w-100">
-        <img src="/logo.png" alt="Logo" />
+        <img src="/droneLogo.png" alt="Logo" />
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav" className="text-center w-100">

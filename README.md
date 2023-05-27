@@ -1,8 +1,8 @@
 # GoWeb
 
 ## **Language**
-<img src="https://github.com/DongkwanKim00/GoWeb/assets/112566149/4e441355-cec4-41cc-b5c4-4acb6cf3dfcf" width="30"/>
-<img src="https://github.com/DongkwanKim00/GoWeb/assets/112566149/c7c7bdf9-9835-46b2-a8d6-4c7d1f86e6fd" width="30"/>
+<img src="https://github.com/DongkwanKim00/GoWeb/assets/112566149/4e441355-cec4-41cc-b5c4-4acb6cf3dfcf" width="30%"/>
+<img src="https://github.com/DongkwanKim00/GoWeb/assets/112566149/c7c7bdf9-9835-46b2-a8d6-4c7d1f86e6fd" width="30%"/>
 
 ***
 ## **Drone**

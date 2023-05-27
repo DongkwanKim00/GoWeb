@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react';
-import './Soju.css';
+import './DroneStyle.css';
 import ChatData from './ChatData';
 import LoggedInUserContext from './LoggedInUserContext';
 import axios from 'axios';
-import categoty from './Search.js';
+import categoty from './SearchEdu.js';
 
 const CommentBox = ({ category }) => {
   const [comments, setComments] = useState([]);

@@ -26,7 +26,7 @@ class SearchEdu extends Component {
   // handleClick = (sign) => (e) => {
   //   if (sign === 1) {
   //     const itemName = e.target.textContent;
-  //     console.log("빵꾸똥꾸", itemName);
+  
   //     this.setState({
   //       checkClicked: 1,
   //       clickedItem: itemName,
@@ -40,7 +40,7 @@ class SearchEdu extends Component {
   handleClick = (sign) => (e) => {
     if (sign === 1) {
       const itemName = e.target.textContent;
-      console.log("빵꾸똥꾸", itemName);
+      
       this.setState({
         checkClicked: 1,
         clickedItem: itemName,

@@ -3,7 +3,7 @@ import axios from "axios";
 import { Link } from "react-router-dom";
 
 const Rank = () => {
-  const baseUrl = "http://localhost:8086";
+  const baseUrl = "http://localhost:8000";
   const [rankedList, setRankedList] = useState([]);
 
   useEffect(() => {

@@ -4,7 +4,7 @@ import axios from "axios";
 import { Form, Button } from "react-bootstrap";
 
 const BoardEdit = () => {
-  const baseUrl = "http://localhost:8086";
+  const baseUrl = "http://localhost:8000";
   const { id } = useParams();
   const [title, setTitle] = useState("");
   const [content, setContent] = useState("");

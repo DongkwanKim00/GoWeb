@@ -10,7 +10,7 @@ const CommentBox = ({ category }) => {
   const [newComment, setNewComment] = useState('');
   const [chats, setChats] = useState([]);
 
-  const baseUrl = 'http://localhost:8092';
+  const baseUrl = 'http://localhost:8000';
 
   const loggedInUser = JSON.parse(localStorage.getItem('loggedInUser'));
   const author = loggedInUser ? loggedInUser.name : '';

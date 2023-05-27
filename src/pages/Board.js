@@ -3,7 +3,7 @@ import axios from "axios";
 import { useState, useEffect } from "react";
 
 const Board = () => {
-  const baseUrl = "http://localhost:8086";
+  const baseUrl = "http://localhost:8000";
 
   const [title, setTitle] = useState("");
   const [content, setContent] = useState("");

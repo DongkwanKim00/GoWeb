@@ -4,7 +4,7 @@ import axios from "axios";
 import { Link } from "react-router-dom";
 
 const BoardDetail = () => {
-  const baseUrl = "http://localhost:8086";
+  const baseUrl = "http://localhost:8000";
   const { id } = useParams();
   const [post, setPost] = useState({});
   const [notFound, setNotFound] = useState(false);

@@ -7,7 +7,7 @@ const SignUp = ({ onClose }) => {
   const [password, setPassword] = useState('');
   const [age, setAge] = useState('');
 
-  const baseUrl = "http://localhost:8084";
+  const baseUrl = "http://localhost:8000";
   const buttonStyle = {
     // 다른 스타일 속성들...
     borderRadius: '5px',

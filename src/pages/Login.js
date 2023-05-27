@@ -4,7 +4,7 @@ import Topbar from '../components/TopBar';
 import SignUp from './SignUp';
 
 const Login = () => {
-  const baseUrl = "http://localhost:8084";
+  const baseUrl = "http://localhost:8000";
   const [inputMail, setInputMail] = useState('');
   const [inputPw, setInputPw] = useState('');
   const [loggedInUser, setLoggedInUser] = useState(null);

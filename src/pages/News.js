@@ -27,11 +27,17 @@ const News = () => {
 
   return (
     <>
-      <div className="banner">
+      <div className="banner" style={{marginTop: "36px"}}>
         <h2 className="text-center">Drone News</h2>
+        
       </div>
 
-      <div className="news">
+      <div className="news" style={{
+        background: `url('/cloudBackground.gif') no-repeat center center fixed`,
+        minHeight: "100vh",
+        padding: "50px",
+        marginTop: "80px"
+      }}>
         <ul>
           {newsData.map((newsItem) => (
             <tr key={newsItem.id}>

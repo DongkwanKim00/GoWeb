@@ -32,7 +32,7 @@ const Topbar = () => {
   style={{ position: "fixed", top: 0, zIndex: 1, background: "#000000" }}
 >
       <Navbar.Brand href="/" className="text-center w-100">
-        <img src="/droneLogo.png" alt="Logo" />
+        <img src="/droneLogo.png" alt="Logo" style={{maxHeight: "80px"}}/>
       </Navbar.Brand>
       <Navbar.Toggle aria-controls="basic-navbar-nav" />
       <Navbar.Collapse id="basic-navbar-nav" className="text-center w-100">

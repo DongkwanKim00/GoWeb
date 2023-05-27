@@ -61,7 +61,6 @@ code {
 }
 
 .news {
-  background-image: url('./news_background.jpg');
   background-size: cover;
   background-position: top center;
   background-attachment: fixed;

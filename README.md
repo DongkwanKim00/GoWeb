@@ -13,5 +13,5 @@
 * _201935015 Kim Dongkwan_ `Role: `
 * _2019_ `Role: `
 * _201935041 Moon JungGon_ `Role: `
-* _2019_ `Role: `
+* _201935082 Woo Taegyeong_ `Role: `
 * _2019_ `Role: `
